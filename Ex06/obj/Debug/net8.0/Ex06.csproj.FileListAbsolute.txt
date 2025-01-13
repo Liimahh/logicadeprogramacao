@@ -1,0 +1,4 @@
+C:\Users\nathally.plima\source\repos\logica_programacao\Ex06\obj\Debug\net8.0\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathally.plima\source\repos\logica_programacao\Ex06\obj\Debug\net8.0\Ex06.AssemblyInfoInputs.cache
+C:\Users\nathally.plima\source\repos\logica_programacao\Ex06\obj\Debug\net8.0\Ex06.AssemblyInfo.cs
+C:\Users\nathally.plima\source\repos\logica_programacao\Ex06\obj\Debug\net8.0\Ex06.csproj.CoreCompileInputs.cache

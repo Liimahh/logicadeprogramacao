@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{062582EE-7283-4622-A6E3-1BC5266E9DA8}|ex07\\ex07.csproj|c:\\users\\nathally.plima\\source\\repos\\logica_programacao\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062582EE-7283-4622-A6E3-1BC5266E9DA8}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEEBD0D-4FEE-46B2-8A2F-00D8A2A9A7B0}|Ex06\\Ex06.csproj|c:\\users\\nathally.plima\\source\\repos\\logica_programacao\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEEBD0D-4FEE-46B2-8A2F-00D8A2A9A7B0}|Ex06\\Ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29F8F66-C3B4-4F9E-A267-9AEEC66A8212}|ex05\\ex05.csproj|c:\\users\\nathally.plima\\source\\repos\\logica_programacao\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29F8F66-C3B4-4F9E-A267-9AEEC66A8212}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFC4CE1-2E51-453D-8C0F-D25EB42C78D1}|ex04\\ex04.csproj|c:\\users\\nathally.plima\\source\\repos\\logica_programacao\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFC4CE1-2E51-453D-8C0F-D25EB42C78D1}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0105C602-7B50-481F-865F-207FB6E77D37}|ex03\\ex03.csproj|c:\\users\\nathally.plima\\source\\repos\\logica_programacao\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0105C602-7B50-481F-865F-207FB6E77D37}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050381BE-AE08-4150-AF17-AF392395D5F0}|ex02\\ex02.csproj|c:\\users\\nathally.plima\\source\\repos\\logica_programacao\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050381BE-AE08-4150-AF17-AF392395D5F0}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFC1F6E-F639-4DA8-B1A5-2B3600C46D09}|ex01\\ex01.csproj|c:\\users\\nathally.plima\\source\\repos\\logica_programacao\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFC1F6E-F639-4DA8-B1A5-2B3600C46D09}|ex01\\ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex07\\Program.cs",
+              "RelativeDocumentMoniker": "ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex07\\Program.cs",
+              "RelativeToolTip": "ex07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:44:03.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\Ex06\\Program.cs",
+              "RelativeDocumentMoniker": "Ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\Ex06\\Program.cs",
+              "RelativeToolTip": "Ex06\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:05:02.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex05\\Program.cs",
+              "RelativeDocumentMoniker": "ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex05\\Program.cs",
+              "RelativeToolTip": "ex05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:11:30.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex04\\Program.cs",
+              "RelativeDocumentMoniker": "ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex04\\Program.cs",
+              "RelativeToolTip": "ex04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:40:47.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex03\\Program.cs",
+              "RelativeDocumentMoniker": "ex03\\Program.cs",
+              "ToolTip": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex03\\Program.cs",
+              "RelativeToolTip": "ex03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:23:35.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex02\\Program.cs",
+              "RelativeDocumentMoniker": "ex02\\Program.cs",
+              "ToolTip": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex02\\Program.cs",
+              "RelativeToolTip": "ex02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:09:10.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex01\\Program.cs",
+              "RelativeDocumentMoniker": "ex01\\Program.cs",
+              "ToolTip": "C:\\Users\\nathally.plima\\source\\repos\\logica_programacao\\ex01\\Program.cs",
+              "RelativeToolTip": "ex01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:02:06.141Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
